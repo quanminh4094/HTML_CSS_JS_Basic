@@ -1,0 +1,7 @@
+1, tjao 1 git hub repository
+2, git init
+3,
+ git status(kiểm tra trạng thái files)
+ git add . (thêm all files)
+ git commit -m "message"
+git push origin main
