@@ -1,0 +1,14 @@
+ kiểu dữ liệu trong js
+1. kiểu dữ liệu nguyên thủy - Primitive Data
+- number
+- string
+- boolean
+- undefined
+- null
+- symbol
+2. Dữ liệu phức tạp - Complex Data
+- Function : chức năng
+- Object : sự vật
+
+(Cách kiểm tra kiểu dữ liệu)
+typeof

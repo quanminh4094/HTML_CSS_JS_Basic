@@ -1,0 +1,9 @@
+	Một số hàm built-in	(hàm đc js xây dựng sẵn chỉ cần lấy ra dùng)
+3 hàm bật lên cửa sổ hộp thoại
+alert	(chỉ có mess)	
+confirm	( cancel, ok)
+prompt(có hỏi message, input,cancel,ok) 
+(sau 1 thời gian tùy chọn sẽ bật)		
+	
+set timeout (chạy 1 đoạn code sau 1 khoảng tg)
+set interval (chạy liên tục 1 đoạn code sau 1 khoảng tg)
